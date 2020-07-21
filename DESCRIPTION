@@ -46,7 +46,8 @@ Imports:
     distill,
     knitr,
     kableExtra,
-    forecastHybrid
+    forecastHybrid,
+    optparse(>= 1.6)
 Additional_repositories: 
   https://epiforecasts.io/drat/,
   http://packages.ropensci.org/
